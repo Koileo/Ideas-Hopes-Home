@@ -1,0 +1,18 @@
+1.Want a computer with 3060 GPU
+一台有着3060显卡电脑
+
+2.I can go to a good high school
+考上一个好高中 ，中考加油
+
+3.Improve the open-cv face recognition program and train the cascade classifier yourself
+完善OPEN-CV 人脸识别程序，同时自己训练级联分类器训练
+
+4.Buy an AIO server (AIO is the Primary route, secondary route, NAS, Linux server and docker)
+买一个AIO服务器 （包含主路由，旁路由，NAS，Linux服务器，Docker）
+
+5.使用GeoIP 以及python 搭建自己的IP API，并支持网页查询
+Build your own IP API using geoip and python, and support web page query
+
+
+时间：2021.1.1 - 2021.12.31
+Time: 2021.1.1 - 2021.12.31
