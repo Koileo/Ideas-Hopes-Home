@@ -4,4 +4,4 @@ This is koileo's idea and hopes library. I believe these ideas and hopes will be
 <br><br>
 Just do it!
 <br><br>
-The Ideas and Hopes for 2021 is on 2021.txt
+The Ideas and Hopes for 2021 is on [https://github.com/liewoi/Ideas-Hopes-Home/2021.txt](2021.txt)
